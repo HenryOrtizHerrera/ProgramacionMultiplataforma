@@ -1,4 +1,0 @@
-Codigo_Sucursal  Nombre_Sucursal  Ubicacion_Sucursal
-1                Los 3 Caminos    Trujillo
-2                Blue Moon        El Porvenir
-3                Golazo           Tela
